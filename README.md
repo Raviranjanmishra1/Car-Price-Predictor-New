@@ -1,2 +1,10 @@
 # Car-Price-Predictor
 This model will help in predicting Car Price based on some data through user.
+
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.3.2
+xgboost==2.0.3
+matplotlib==3.8.2
+seaborn==0.13.0
